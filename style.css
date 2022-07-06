@@ -73,6 +73,14 @@ footer{
     width: 550px;
     margin: 0 auto;
 }
+.custom-width a{
+    padding: 10px 20px;
+    background: rgb(14, 155, 221);
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 40px;
+}
 .image-part{
     width: 45%;
     height: auto;
